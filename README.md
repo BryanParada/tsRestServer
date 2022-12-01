@@ -31,6 +31,7 @@ npm install
 - Create table users with the next structure: 
 ![image](https://user-images.githubusercontent.com/51382458/205165688-dc113c64-0dc1-444c-b23f-521821319ca8.png)
 - Edit db/connection.ts with your credentials
+- Make your .env file like .envExample
 - To run the app type the next command in terminal!
 
 ```
